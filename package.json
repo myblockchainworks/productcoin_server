@@ -1,0 +1,30 @@
+{
+  "name": "api_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Developed",
+    "for",
+    "ICO Token"
+  ],
+  "author": "Leo Anbarasan M",
+  "license": "Aequalis",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "express-session": "^1.15.1",
+    "nodemon": "^1.11.0",
+    "web3": "^0.18.2",
+    "ethereumjs-tx" : "^1.3.3",
+    "lodash" : "^4.17.4",
+    "keythereum" : "^1.0.2",
+    "request" : "^2.81.0",
+    "web3-eth-accounts" : "^1.0.0-beta.18"
+  }
+}
